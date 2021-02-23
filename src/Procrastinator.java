@@ -26,5 +26,9 @@ public class Procrastinator {
 			System.out.println("Hey you should probably start doing your assignments earlier.");
 		}
 		
+		else {
+			
+			System.out.println("You really need to start doing you assignments earlier or you aren't going to succeed in school.");
+		}
 	}
 }
