@@ -13,7 +13,12 @@ public class Procrastinator {
 		
 		if (userChoice == 7) {
 			
-			System.out.println("Wow. You are a great student for getting your work done so early.");
+			System.out.println("Wow! You are a great student for getting your work done so early.");
+		}
+		
+		else if (userChoice == 5) {
+			
+			System.out.println("Nice! You finish your assignments really early in advance!");
 		}
 		
 	}
