@@ -11,5 +11,10 @@ public class Procrastinator {
 		
 		int userChoice = myScanner.nextInt();
 		
+		if (userChoice == 7) {
+			
+			System.out.println("Wow. You are a great student for getting your work done so early.");
+		}
+		
 	}
 }
