@@ -9,5 +9,7 @@ public class Procrastinator {
 		
 		Scanner myScanner = new Scanner(System.in);
 		
+		int userChoice = myScanner.nextInt();
+		
 	}
 }
