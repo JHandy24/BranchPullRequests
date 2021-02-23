@@ -21,5 +21,10 @@ public class Procrastinator {
 			System.out.println("Nice! You finish your assignments really early in advance!");
 		}
 		
+		else if (userChoice == 2) {
+			
+			System.out.println("Hey you should probably start doing your assignments earlier.");
+		}
+		
 	}
 }
